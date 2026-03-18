@@ -2,6 +2,7 @@
 This is the place where you will see Cool Apps which are packed with features.
 
 Features: (Note: Some features will be added later)
+
 • 🔲 Add lock-screen widget support (Pixel-style) using Accessibility
 • 💡 Shake for torch, twist gesture for camera
 • 🧹 Clear app cache using Shizuku
