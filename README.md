@@ -13,8 +13,6 @@ Features: (Note: Some features will be added later)
 
 • 🎵 Built-in equaliser
 
-• 🔌 OTG handler for NTFS-formatted USB drives
-
 • 🖥️ Secondary display for Windows via USB debugging
 
 • 📂 Task manager
@@ -28,11 +26,6 @@ Features: (Note: Some features will be added later)
 • 🔊 Custom volume styles
 
 • 💾 Virtual storage
-
-
-• 💿 ISO flasher for PC
-
-• 🖼️ Allow Essentials to accept any icon pack and work as a native icon pack on Moto phones (Moto Edge 50 Pro, no root, no custom ROM)
 
 • 🌌 Screensaver with multiple themes
 
