@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Everlasting Android Tweak</string>
+    <string name="accessibility_service_label">Everlasting Tweak Accessibility</string>
+    <string name="notification_listener_label">Everlasting Music Listener</string>
+    <string name="screensaver_label">Everlasting Screensaver</string>
+</resources>
