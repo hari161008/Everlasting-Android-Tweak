@@ -13,8 +13,6 @@ Features: (Note: Some features will be added later)
 
 • 🎵 Built-in equaliser
 
-• 🖥️ Secondary display for Windows via USB debugging
-
 • 📂 Task manager
 
 • 🕵️ Hidden Android features hub
