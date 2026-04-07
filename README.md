@@ -13,9 +13,8 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 
 <br>
 
-<p align="center">
-  <b>📢 Telegram Support Group</b><br>
-  <a href="https://t.me/EverlastingAndroidTweak">Join Now 🚀</a>
+📢 Telegram Support Group:
+<a href="https://t.me/EverlastingAndroidTweak">Join Now 🚀</a>
 </p>
 
 <br>
