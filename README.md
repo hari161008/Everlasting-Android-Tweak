@@ -2,7 +2,9 @@
 
 Features of Everlasting Android Tweak .✦ ݁˖
 
-Gestures
+---
+
+┈➤ Gestures
 
 • 🔦 Shake for Torch – Shake your phone to toggle the flashlight
 • 📸 Twist for Camera – Twist your wrist to quickly open the camera
@@ -12,7 +14,9 @@ Gestures
 • ⚡ Charging Animation – Beautiful animation when charger connects
 • 📱 Custom Nav Bar – Overlay your own custom navigation bar
 
-Power & Buttons
+---
+
+┈➤ Power & Buttons
 
 • 🔌 Custom Power Menu – Replace the default system power dialog
 • ⚡ Double Power Press – Trigger actions with two quick presses
@@ -20,7 +24,9 @@ Power & Buttons
 
 • 🎭 Fake Power Off – Simulate a realistic fake shutdown
 
-Audio & Haptics
+---
+
+┈➤ Audio & Haptics
 
 • 🎚️ Built-in Equalizer – Fine-tune audio with a 5-band EQ
 • 🔊 Volume Booster – Increase volume beyond system limits
@@ -30,7 +36,9 @@ Audio & Haptics
 • 🔔 Custom Sounds – Set sounds for lock, unlock, tap & charging
 • ⏰ Call/Alarm Vibrations – Custom vibration patterns
 
-Customization
+---
+
+┈➤ Customization
 
 • 🧩 Lock Screen Widgets – Add widgets directly to your lock screen
 • ⚙️ Custom QS Tiles – Add 15+ quick settings tiles
@@ -38,7 +46,9 @@ Customization
 
 • 🧭 Compass – Live compass with animated UI
 
-Visuals
+---
+
+┈➤ Visuals
 
 • 🌌 Screensaver – Beautiful themed screensavers
 • 🖼️ Wallpaper Effects – Pixel-style wallpaper enhancements
@@ -46,7 +56,9 @@ Visuals
 
 • 📷 Watermark Photos – Add EXIF overlay & custom frames
 
-Productivity
+---
+
+┈➤ Productivity
 
 • ❄️ App Freezer – Freeze, hide, or suspend apps (via Hail)
 • 🔄 App Updater – Check GitHub for sideloaded app updates
@@ -54,7 +66,9 @@ Productivity
 
 • ⏳ Keep Screen On – Prevent screen sleep + quick tile
 
-Device & System (Not working right now)
+---
+
+┈➤ Device & System (Not working right now)
 
 • 📊 Task Manager – View & kill running processes
 • 💻 Terminal – Run shell commands on your device
@@ -67,17 +81,23 @@ Device & System (Not working right now)
 • 🧩 Hidden Features – Unlock hidden Android settings
 • 🗺️ Maps Power Saving – Reduce battery usage during navigation
 
-Security
+---
+
+┈➤ Security
 
 • 🚨 Motion Alert – Get notified when your device is moved
 • 🔒 Screenshot Blocker – Prevent screenshots & screen recording
 
-Communication
+---
+
+┈➤ Communication
 
 • 📡 Walkie Talkie – Push-to-talk via Wi-Fi Direct
 • 📞 Fake Call – Simulate incoming calls
 
-Notifications & Sensors
+---
+
+┈➤ Notifications & Sensors
 
 • 💡 Notification Lighting – Edge lighting & flashlight alerts
 • 🔋 Battery Health – View battery stats & OEM data
@@ -85,11 +105,15 @@ Notifications & Sensors
 
 • 📱 Device Info – Full hardware & software details
 
-Music & Light
+---
+
+┈➤ Music & Light
 
 • 🎵 Music Reactive Light – Flash & vibrate to music beats
 • 📊 Music Leveler – Animated equalizer across the screen
 
-AI Writing
+---
+
+┈➤ AI Writing
 
 • ✍️ SwiftSlate AI – AI-powered text replacement anywhere
