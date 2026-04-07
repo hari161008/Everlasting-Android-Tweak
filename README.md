@@ -10,7 +10,7 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 <br>
 <br>
 
-📦 Latest Releases: [Click Here TO DOWNLOAD](https://github.com/hari161008/Everlasting-Android-Tweak/releases)
+📦 Latest Releases: [Click Here To Download](https://github.com/hari161008/Everlasting-Android-Tweak/releases)
 
 <br>
 <br>
