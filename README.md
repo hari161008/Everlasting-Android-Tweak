@@ -32,7 +32,7 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 </p>
 
 <br>
-,br.
+<br>
 
 Features of Everlasting Android Tweak .✦ ݁˖
 
