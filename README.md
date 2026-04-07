@@ -8,11 +8,9 @@
 
 Everlasting Android Tweak is the true heart of Android, powerful, feature rich toolkit designed to unlock the full potential of your Android device. It provides you many advanced gestures, customization, system controls, and smart utilities to enhance and personalize your device experience.<br>
 <br>
-<br>
 
 📦 Latest Releases: [Click Here To Download](https://github.com/hari161008/Everlasting-Android-Tweak/releases)
 
-<br>
 <br>
 
 <p align="center">
