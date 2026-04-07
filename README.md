@@ -11,7 +11,6 @@ Gestures
 • ⚡ Charging Animation – Beautiful animation when charger connects
 • 📱 Custom Nav Bar – Overlay your own custom navigation bar
 
----
 
 Power & Buttons
 
@@ -20,7 +19,6 @@ Power & Buttons
 • 🔘 Screen-Off Actions – Long-press buttons even when screen is off
 • 🎭 Fake Power Off – Simulate a realistic fake shutdown
 
----
 
 Audio & Haptics
 
@@ -31,7 +29,6 @@ Audio & Haptics
 • 🔔 Custom Sounds – Set sounds for lock, unlock, tap & charging
 • ⏰ Call/Alarm Vibrations – Custom vibration patterns
 
----
 
 Customization
 
@@ -40,7 +37,6 @@ Customization
 • 🎨 Eye Dropper – Pick any color from your screen
 • 🧭 Compass – Live compass with animated UI
 
----
 
 Visuals
 
@@ -49,7 +45,6 @@ Visuals
 • 🤖 AI Image Upscaler – Upscale images to 2× or 4×
 • 📷 Watermark Photos – Add EXIF overlay & custom frames
 
----
 
 Productivity
 
@@ -58,7 +53,6 @@ Productivity
 • 🔋 Charge Limit Alarm – Get notified at a set battery level
 • ⏳ Keep Screen On – Prevent screen sleep + quick tile
 
----
 
 Device & System (Not working right now)
 
@@ -71,21 +65,18 @@ Device & System (Not working right now)
 • 🧩 Hidden Features – Unlock hidden Android settings
 • 🗺️ Maps Power Saving – Reduce battery usage during navigation
 
----
 
 Security
 
 • 🚨 Motion Alert – Get notified when your device is moved
 • 🔒 Screenshot Blocker – Prevent screenshots & screen recording
 
----
 
 Communication
 
 • 📡 Walkie Talkie – Push-to-talk via Wi-Fi Direct
 • 📞 Fake Call – Simulate incoming calls
 
----
 
 Notifications & Sensors
 
@@ -94,14 +85,12 @@ Notifications & Sensors
 • 🧲 Magnetic Field Sensor – Real-time magnetic field strength
 • 📱 Device Info – Full hardware & software details
 
----
 
 Music & Light
 
 • 🎵 Music Reactive Light – Flash & vibrate to music beats
 • 📊 Music Leveler – Animated equalizer across the screen
 
----
 
 AI Writing
 
