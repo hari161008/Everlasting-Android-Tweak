@@ -1,46 +1,133 @@
-# (WILL BE UPDATING THIS PAGE SOON) Everlasting-Android-Tweak
-This is the place where you will see Cool Apps which are packed with features.
+Everlasting Android Tweak
 
-Features: (Note: Some features will be added later)
+Features of Everlasting Android Tweak .✦ ݁˖
 
-• 🔲 Add lock-screen widget support (Pixel-style) using Accessibility
+Gestures (6)
 
-• 💡 Shake for torch, twist gesture for camera
+• 🔦 Shake for Torch – Shake your phone to toggle the flashlight
+• 📸 Twist for Camera – Twist your wrist to quickly open the camera
+• 👆 Double Tap Back – Double-tap the back for torch or custom app
+• 🔕 Flip to DND – Flip device face-down to enable Do Not Disturb
 
-• 🧹 Clear app cache using Shizuku
+• ⚡ Charging Animation – Beautiful animation when charger connects
+• 📱 Custom Nav Bar – Overlay your own custom navigation bar
 
-• 📸 Immediate automatic watermarking when a photo is taken
 
-• 🎵 Built-in equaliser
+---
 
-• 📂 Task manager
+Power & Buttons (4)
 
-• 🕵️ Hidden Android features hub
+• 🔌 Custom Power Menu – Replace the default system power dialog
+• ⚡ Double Power Press – Trigger actions with two quick presses
+• 🔘 Screen-Off Actions – Long-press buttons even when screen is off
 
-• 🖥️ Terminal
+• 🎭 Fake Power Off – Simulate a realistic fake shutdown
 
-• 🌓 Virtual screen-off feature
 
-• 🔊 Custom volume styles
+---
 
-• 💾 Virtual storage
+Audio & Haptics (6)
 
-• 🌌 Screensaver with multiple themes
+• 🎚️ Built-in Equalizer – Fine-tune audio with a 5-band EQ
+• 🔊 Volume Booster – Increase volume beyond system limits
+• 🎛️ Volume Styles – Customize the volume panel UI
 
-• 🛡️ Screenshot / screen-recording blocker
+• 📳 Custom Haptics – Adjust tap & scroll vibration feedback
+• 🔔 Custom Sounds – Set sounds for lock, unlock, tap & charging
+• ⏰ Call/Alarm Vibrations – Custom vibration patterns
 
-• 🖼️ Wallpaper effects (Pixel-style + dock wall effects + more, excluding heavy liquid-glass style)
 
-• 🔄 Auto reboot device at custom time/date/weekly using Accessibility
+---
 
-• ✨ Custom haptics on taps
+Customization (4)
 
-• ✨ Custom haptics while scrolling
+• 🧩 Lock Screen Widgets – Add widgets directly to your lock screen
+• ⚙️ Custom QS Tiles – Add 15+ quick settings tiles
 
-• 🎶 Custom tap sound on touch
+• 🎨 Eye Dropper – Pick any color from your screen
+• 🧭 Compass – Live compass with animated UI
 
-• 🔓 Custom lock and unlock sounds (using Accessibility / Usage Access / Shizuku to reduce delay)
 
-• 🖱️ Custom gesture/button navigation bar (Overlay another nav bar/pill via Accessibility, customize colors, look, back gesture, or button nav too)
+---
 
-• 💡 Using flash light and device vibration while any music is playing (like how Nothing Glymph lights work; slow songs dim/glow smoothly like Pixel & Motorola)
+Visuals (4)
+
+• 🌌 Screensaver – Beautiful themed screensavers
+• 🖼️ Wallpaper Effects – Pixel-style wallpaper enhancements
+
+• 🤖 AI Image Upscaler – Upscale images to 2× or 4×
+• 📷 Watermark Photos – Add EXIF overlay & custom frames
+
+
+---
+
+Productivity (4)
+
+• ❄️ App Freezer – Freeze, hide, or suspend apps (via Hail)
+• 🔄 App Updater – Check GitHub for sideloaded app updates
+
+• 🔋 Charge Limit Alarm – Get notified at a set battery level
+• ⏳ Keep Screen On – Prevent screen sleep + quick tile
+
+
+---
+
+Device & System (8)
+
+• 📊 Task Manager – View & kill running processes
+• 💻 Terminal – Run shell commands on your device
+• 🧹 Cache Cleaner – Clear app cache (via Shizuku)
+
+• 🔐 Shizuku Manager – Control Shizuku service & permissions
+• 🖥️ Secondary Display – Cast content to another screen
+• 🔁 Auto Reboot – Schedule automatic restarts
+
+• 🧩 Hidden Features – Unlock hidden Android settings
+• 🗺️ Maps Power Saving – Reduce battery usage during navigation
+
+
+---
+
+Security (2)
+
+• 🚨 Motion Alert – Get notified when your device is moved
+• 🔒 Screenshot Blocker – Prevent screenshots & screen recording
+
+
+---
+
+Communication (2)
+
+• 📡 Walkie Talkie – Push-to-talk via Wi-Fi Direct
+• 📞 Fake Call – Simulate incoming calls
+
+
+---
+
+Notifications & Sensors (4)
+
+• 💡 Notification Lighting – Edge lighting & flashlight alerts
+• 🔋 Battery Health – View battery stats & OEM data
+
+• 🧲 Magnetic Field Sensor – Real-time magnetic field strength
+• 📱 Device Info – Full hardware & software details
+
+
+---
+
+Music & Light (2)
+
+• 🎵 Music Reactive Light – Flash & vibrate to music beats
+• 📊 Music Leveler – Animated equalizer across the screen
+
+
+---
+
+AI Writing (1)
+
+• ✍️ SwiftSlate AI – AI-powered text replacement anywhere
+
+
+---
+
+If you want, I can convert this into a GitHub README, Play Store listing, or a promo banner (4K) next 🚀
