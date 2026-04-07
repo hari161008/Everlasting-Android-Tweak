@@ -31,10 +31,10 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
   <img src="assets/images/screenshots/9.png" width="20%"/>
 </p>
 
-<p align="left" style="padding-left: 5%;">
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/images/screenshots/10.png" width="20%"/>
 </p>
-
 <br>
 <br>
 
