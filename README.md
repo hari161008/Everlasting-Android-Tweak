@@ -1,4 +1,4 @@
-# (NEED TO UPDATE THIS PAGE SOON) Everlasting-Android-Tweak
+# (WILL BE UPDATING THIS PAGE SOON) Everlasting-Android-Tweak
 This is the place where you will see Cool Apps which are packed with features.
 
 Features: (Note: Some features will be added later)
