@@ -43,6 +43,7 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 Features of Everlasting Android Tweak .✦ ݁˖
 <br>
 <br>
+<br>
 ┈➤ Gestures
 
 • 🔦 Shake for Torch – Shake your phone to toggle the flashlight <br>
