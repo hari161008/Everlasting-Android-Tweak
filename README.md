@@ -14,27 +14,27 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 <br>
 
 <p align="center">
-  <img src="assets/images/screenshots/1.png" width="20%"/>
-  <img src="assets/images/screenshots/2.png" width="20%"/>
-  <img src="assets/images/screenshots/3.png" width="20%"/>
+  <img src="assets/images/screenshots/1.png" width="32%"/>
+  <img src="assets/images/screenshots/2.png" width="32%"/>
+  <img src="assets/images/screenshots/3.png" width="32%"/>
 </p>
 
 <p align="center">
-  <img src="assets/images/screenshots/4.png" width="20%"/>
-  <img src="assets/images/screenshots/5.png" width="20%"/>
-  <img src="assets/images/screenshots/6.png" width="20%"/>
+  <img src="assets/images/screenshots/4.png" width="32%"/>
+  <img src="assets/images/screenshots/5.png" width="32%"/>
+  <img src="assets/images/screenshots/6.png" width="32%"/>
 </p>
 
 <p align="center">
-  <img src="assets/images/screenshots/7.png" width="20%"/>
-  <img src="assets/images/screenshots/8.png" width="20%"/>
-  <img src="assets/images/screenshots/9.png" width="20%"/>
+  <img src="assets/images/screenshots/7.png" width="32%"/>
+  <img src="assets/images/screenshots/8.png" width="32%"/>
+  <img src="assets/images/screenshots/9.png" width="32%"/>
 </p>
 
 <p align="center">
-  <img src="assets/images/screenshots/10.png" width="20%"/>
-  <img src="assets/images/screenshots/11.png" width="20%"/>
-  <img src="assets/images/screenshots/12.png" width="20%"/>
+  <img src="assets/images/screenshots/10.png" width="32%"/>
+  <img src="assets/images/screenshots/11.png" width="32%"/>
+  <img src="assets/images/screenshots/12.png" width="32%"/>
 </p>
 
 <br>
