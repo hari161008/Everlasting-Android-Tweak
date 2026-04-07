@@ -31,7 +31,7 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
   <img src="assets/images/screenshots/9.png" width="20%"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="assets/images/screenshots/10.png" width="20%"/>
 </p>
 
