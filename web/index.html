@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Everlasting Android Tweak</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded" rel="stylesheet">
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<div id="app">
+  <div id="homeScreen" class="screen active"></div>
+  <div id="settingsScreen" class="screen"></div>
+
+  <div class="nav">
+    <div class="nav-item active" onclick="navigate('home', this)">
+      <span class="material-symbols-rounded">home</span>
+    </div>
+    <div class="nav-item" onclick="navigate('settings', this)">
+      <span class="material-symbols-rounded">settings</span>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
