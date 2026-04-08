@@ -19,15 +19,15 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 # 📦 Latest Releases
 GitHub: [Download](https://github.com/hari161008/Everlasting-Android-Tweak/releases) ⬇️
 
-# Telegram Links
+# 🚀 Telegram Links
 
-🚀 App Recommending Channel:
+🌐 App Recommending Channel:
 <a href="https://t.me/CoolAppStore">Join Now</a>
 <br>
 📢 App Support Group:
 <a href="https://t.me/EverlastingAndroidTweak">Join Now</a>
 <br>
-# Screenshots:
+# 📱 Screenshots:
 
 <p align="center">
   <img src="assets/images/screenshots/1.png" width="32%"/>
