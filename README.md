@@ -19,16 +19,16 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 <br>
 
 🚀 App Recommending Channel:
-<a href="https://t.me/CoolAppStore">Join Now</a> 📣
+<a href="https://t.me/CoolAppStore">Join Now</a>
 
 <br>
 
 📢 App Support Group:
-<a href="https://t.me/EverlastingAndroidTweak">Join Now</a> 🚀
+<a href="https://t.me/EverlastingAndroidTweak">Join Now</a>
 
 <br>
 
-Screenshots of Everlasting Android Tweak:
+# Screenshots:
 
 <br>
 
@@ -60,9 +60,6 @@ Screenshots of Everlasting Android Tweak:
 <br>
 
 # Features of Everlasting Android Tweak .✦ ݁˖
-<br>
-<br>
-<br>
 ┈➤ Gestures
 
 • 🔦 Shake for Torch – Shake your phone to toggle the flashlight <br>
