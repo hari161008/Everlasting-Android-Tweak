@@ -10,7 +10,7 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 <br>
 <body>
   <center>
-    Think Different :)
+    <b>Think Different :)</b>
   </center>
 </body>
 
