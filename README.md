@@ -13,12 +13,16 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 
 <br>
 
-🚀 Telegram App Recommending Channel:
+# Telegram Links:
+
+<br>
+
+🚀 App Recommending Channel:
 <a href="https://t.me/CoolAppStore">Join Now</a> 📣
 
 <br>
 
-📢 Telegram Everlasting Android Tweak App Support Group:
+📢 App Support Group:
 <a href="https://t.me/EverlastingAndroidTweak">Join Now</a> 🚀
 
 <br>
