@@ -20,12 +20,10 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 Demo App: [Click Here](https://hari161008.github.io/Website-For-Everlasting-Android-Tweak/Everlasting%20Android%20Tweak%20Demo.html)
 
 <br>
-<br>
 
 # 📦 Latest Releases
 GitHub: [Download](https://github.com/hari161008/Everlasting-Android-Tweak/releases) ⬇️
 
-<br>
 <br>
 
 # 🚀 Telegram Links
@@ -36,7 +34,6 @@ GitHub: [Download](https://github.com/hari161008/Everlasting-Android-Tweak/relea
 📢 App Support Group:
 <a href="https://t.me/EverlastingAndroidTweak">Join Now</a>
 
-<br>
 <br>
 
 # 📱 Screenshots:
