@@ -20,11 +20,7 @@ GitHub: [Download](https://github.com/hari161008/Everlasting-Android-Tweak/relea
 📢 App Support Group:
 <a href="https://t.me/EverlastingAndroidTweak">Join Now</a>
 
-<br>
-
 # Screenshots:
-
-<br>
 
 <p align="center">
   <img src="assets/images/screenshots/1.png" width="32%"/>
