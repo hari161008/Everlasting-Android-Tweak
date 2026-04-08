@@ -20,9 +20,6 @@ GitHub: [Download](https://github.com/hari161008/Everlasting-Android-Tweak/relea
 
 🚀 App Recommending Channel:
 <a href="https://t.me/CoolAppStore">Join Now</a>
-
-<br>
-
 📢 App Support Group:
 <a href="https://t.me/EverlastingAndroidTweak">Join Now</a>
 
