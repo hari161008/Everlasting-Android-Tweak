@@ -12,11 +12,7 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 # 📦 Latest Releases: 
 GitHub: [Download](https://github.com/hari161008/Everlasting-Android-Tweak/releases) ⬇️
 
-<br>
-
 # Telegram Links:
-
-<br>
 
 🚀 App Recommending Channel:
 <a href="https://t.me/CoolAppStore">Join Now</a>
