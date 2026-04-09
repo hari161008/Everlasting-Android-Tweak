@@ -18,7 +18,7 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 
 # 📱 Try this app without actually installing
 Demo App: [Click Here](https://hari161008.github.io/Website-For-Everlasting-Android-Tweak/Everlasting_Android_Tweak_Demo%20v2.html) <br> <br>
-NOTE: THE DEMO APP IS JUST SIMILAR NOT EXACTLY THE SAME IN LOOKS ALONE
+NOTE: THE DEMO APP IS JUST SIMILAR NOT EXACTLY THE SAME IN LOOKS ALONE, LOOK SCREENSHOTS BELOW FOR EXACT DETAILS
 
 <br>
 
