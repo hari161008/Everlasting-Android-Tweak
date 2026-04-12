@@ -178,10 +178,12 @@ The source code of Demo App and (Rate and Review) are open, Check it out: [Click
 
 
 
+
+
 # ⭐ Rate and Review 
 Everyone's Ratings:  
 <a href="https://hari161008.github.io/Website-For-Everlasting-Android-Tweak/Ratings%20Reviews/Ratings%20and%20Reviews%20v3.html">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F4C430&height=40&section=header&text=Click%20Here&fontSize=16&fontColor=000000&radius=20"/>
+  <img src="https://img.shields.io/badge/Click%20Here-F4C430?style=flat&logoWidth=0&label=&color=F4C430&labelColor=F4C430&logoColor=000000"/>
 </a>
 <br>
 
@@ -192,7 +194,7 @@ If you would like to write a Review, you must install the app, then go to App's 
 # 📱 Try this app without actually installing
 Demo App:  
 <a href="https://hari161008.github.io/Website-For-Everlasting-Android-Tweak/Everlasting_Android_Tweak_Demo%20v2.html">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F4C430&height=40&section=header&text=Click%20Here&fontSize=16&fontColor=000000&radius=20"/>
+  <img src="https://img.shields.io/badge/Click%20Here-F4C430?style=flat&logoWidth=0&label=&color=F4C430&labelColor=F4C430"/>
 </a>
 <br><br>
 
@@ -203,7 +205,7 @@ NOTE: THE DEMO APP IS JUST SIMILAR NOT EXACTLY THE SAME IN LOOKS ALONE, LOOK SCR
 # 📦 Latest Releases
 GitHub:  
 <a href="https://github.com/hari161008/Everlasting-Android-Tweak/releases">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F4C430&height=40&section=header&text=Download&fontSize=16&fontColor=000000&radius=20"/>
+  <img src="https://img.shields.io/badge/Download-F4C430?style=flat&label=&color=F4C430"/>
 </a>
 
 <br>
@@ -212,12 +214,11 @@ GitHub:
 
 🌐 Cool Apps Recommending Channel:  
 <a href="https://t.me/CoolAppStore">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F4C430&height=40&section=header&text=Join%20Now&fontSize=16&fontColor=000000&radius=20"/>
+  <img src="https://img.shields.io/badge/Join%20Now-F4C430?style=flat&label=&color=F4C430"/>
 </a>
 <br>
 
 📢 Everlasting Support Group:  
 <a href="https://t.me/EverlastingAndroidTweak">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F4C430&height=40&section=header&text=Join%20Now&fontSize=16&fontColor=000000&radius=20"/>
+  <img src="https://img.shields.io/badge/Join%20Now-F4C430?style=flat&label=&color=F4C430"/>
 </a>
-
