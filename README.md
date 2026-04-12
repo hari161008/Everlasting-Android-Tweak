@@ -175,3 +175,61 @@ GitHub: [Download](https://github.com/hari161008/Everlasting-Android-Tweak/relea
 First I created a Normal google form in my account, then I integrated into my app, then I linked the google form with spreadsheets, then there was an option to create csv as a link form, which gives you the output in a raw data, Then I created an UI for rating and review in html and it shows everything (in Aurora store like) UI as the output !
 
 The source code of Demo App and (Rate and Review) are open, Check it out: [Click Here](https://github.com/hari161008/Website-For-Everlasting-Android-Tweak)
+
+
+
+
+
+
+
+<div align="center">
+
+  <a href="https://github.com/hari161008/Everlasting-Android-Tweak" target="_blank" style="text-decoration:none;">
+    <span style="
+      display: inline-block;
+      background: #F4C430;
+      color: #000;
+      padding: 12px 24px;
+      border-radius: 999px;
+      font-size: 14px;
+      font-weight: 500;
+      margin: 6px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    ">
+      📂 View Project
+    </span>
+  </a>
+
+  <a href="https://github.com/hari161008/Everlasting-Android-Tweak/releases" target="_blank" style="text-decoration:none;">
+    <span style="
+      display: inline-block;
+      background: #F4C430;
+      color: #000;
+      padding: 12px 24px;
+      border-radius: 999px;
+      font-size: 14px;
+      font-weight: 500;
+      margin: 6px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    ">
+      ⬇️ Download
+    </span>
+  </a>
+
+  <a href="https://t.me/EverlastingAndroidTweak" target="_blank" style="text-decoration:none;">
+    <span style="
+      display: inline-block;
+      background: #F4C430;
+      color: #000;
+      padding: 12px 24px;
+      border-radius: 999px;
+      font-size: 14px;
+      font-weight: 500;
+      margin: 6px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    ">
+      🚀 Join Now
+    </span>
+  </a>
+
+</div>
