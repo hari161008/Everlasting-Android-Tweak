@@ -177,18 +177,48 @@ First I created a Normal google form in my account, then I integrated into my ap
 The source code of Demo App and (Rate and Review) are open, Check it out: [Click Here](https://github.com/hari161008/Website-For-Everlasting-Android-Tweak)
 
 
-<p align="center">
 
-  <a href="https://github.com/hari161008/Everlasting-Android-Tweak">
-    <img src="https://img.shields.io/badge/View%20Project-F4C430?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
+# ⭐ Rate and Review 
+Everyone's Ratings:  
+<a href="https://hari161008.github.io/Website-For-Everlasting-Android-Tweak/Ratings%20Reviews/Ratings%20and%20Reviews%20v3.html">
+  <img src="https://img.shields.io/badge/Click%20Here-F4C430?style=for-the-badge&logo=star&logoColor=black"/>
+</a>
+<br>
 
-  <a href="https://github.com/hari161008/Everlasting-Android-Tweak/releases">
-    <img src="https://img.shields.io/badge/Download-F4C430?style=for-the-badge&logo=android&logoColor=black"/>
-  </a>
+If you would like to write a Review, you must install the app, then go to App's settings > Rate and Review
 
-  <a href="https://t.me/EverlastingAndroidTweak">
-    <img src="https://img.shields.io/badge/Join%20Now-F4C430?style=for-the-badge&logo=telegram&logoColor=black"/>
-  </a>
+<br>
+
+# 📱 Try this app without actually installing
+Demo App:  
+<a href="https://hari161008.github.io/Website-For-Everlasting-Android-Tweak/Everlasting_Android_Tweak_Demo%20v2.html">
+  <img src="https://img.shields.io/badge/Click%20Here-F4C430?style=for-the-badge&logo=android&logoColor=black"/>
+</a>
+<br><br>
+
+NOTE: THE DEMO APP IS JUST SIMILAR NOT EXACTLY THE SAME IN LOOKS ALONE, LOOK SCREENSHOTS BELOW FOR EXACT DETAILS
+
+<br>
+
+# 📦 Latest Releases
+GitHub:  
+<a href="https://github.com/hari161008/Everlasting-Android-Tweak/releases">
+  <img src="https://img.shields.io/badge/Download-F4C430?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<br>
+
+# 🚀 Telegram Links
+
+🌐 Cool Apps Recommending Channel:  
+<a href="https://t.me/CoolAppStore">
+  <img src="https://img.shields.io/badge/Join%20Now-F4C430?style=for-the-badge&logo=telegram&logoColor=black"/>
+</a>
+<br>
+
+📢 Everlasting Support Group:  
+<a href="https://t.me/EverlastingAndroidTweak">
+  <img src="https://img.shields.io/badge/Join%20Now-F4C430?style=for-the-badge&logo=telegram&logoColor=black"/>
+</a>
 
 </p>
