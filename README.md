@@ -175,3 +175,20 @@ GitHub: [Download](https://github.com/hari161008/Everlasting-Android-Tweak/relea
 First I created a Normal google form in my account, then I integrated into my app, then I linked the google form with spreadsheets, then there was an option to create csv as a link form, which gives you the output in a raw data, Then I created an UI for rating and review in html and it shows everything (in Aurora store like) UI as the output !
 
 The source code of Demo App and (Rate and Review) are open, Check it out: [Click Here](https://github.com/hari161008/Website-For-Everlasting-Android-Tweak)
+
+
+<p align="center">
+
+  <a href="https://github.com/hari161008/Everlasting-Android-Tweak">
+    <img src="https://img.shields.io/badge/View%20Project-F4C430?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+
+  <a href="https://github.com/hari161008/Everlasting-Android-Tweak/releases">
+    <img src="https://img.shields.io/badge/Download-F4C430?style=for-the-badge&logo=android&logoColor=black"/>
+  </a>
+
+  <a href="https://t.me/EverlastingAndroidTweak">
+    <img src="https://img.shields.io/badge/Join%20Now-F4C430?style=for-the-badge&logo=telegram&logoColor=black"/>
+  </a>
+
+</p>
