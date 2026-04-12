@@ -16,7 +16,8 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 
 <br>
 
-# 🪟 Rating and Reviews: [Click Here](https://docs.google.com/spreadsheets/d/1s18HvfSKTFTIWTc6WDoBoE5SHFmLXdLcUmMdtx_Q1UY/edit?resourcekey=&gid=679995764#gid=679995764)
+# 🪟 Rating and Reviews: 
+Everyone's Ratings: [Click Here](https://docs.google.com/spreadsheets/d/1s18HvfSKTFTIWTc6WDoBoE5SHFmLXdLcUmMdtx_Q1UY/edit?resourcekey=&gid=679995764#gid=679995764)
 
 <br>
 
