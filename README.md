@@ -166,7 +166,10 @@ GitHub: [Download](https://github.com/hari161008/Everlasting-Android-Tweak/relea
 <br>
 ┈➤ AI Writing
 
-• ✍️ SwiftSlate AI – AI-powered text replacement anywhere <br>
+• ✍️ SwiftSlate AI – AI-powered text replacement anywhere 
+
+<br>
+<br>
 
 # For those who are wondering how Rate and Review work
 First I created a Normal google form in my account, then I integrated into my app, then I linked the google form with spreadsheets, then there was an option to create csv as a link form, which gives you the output in a raw data, Then I created an UI for rating and review in html and it shows everything (in AUrora store like) UI as the output !
