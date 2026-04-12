@@ -29,10 +29,10 @@ GitHub: [Download](https://github.com/hari161008/Everlasting-Android-Tweak/relea
 
 # 🚀 Telegram Links
 
-🌐 App Recommending Channel:
+🌐 Cool Apps Recommending Channel:
 <a href="https://t.me/CoolAppStore">Join Now</a>
 <br>
-📢 App Support Group:
+📢 Everlasting Support Group:
 <a href="https://t.me/EverlastingAndroidTweak">Join Now</a>
 
 <br>
