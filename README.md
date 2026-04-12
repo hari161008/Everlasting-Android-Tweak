@@ -17,8 +17,7 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 <br>
 
 # ⭐ Rate and Review 
-Everyone's Ratings: [Click Here](https://docs.google.com/spreadsheets/d/1s18HvfSKTFTIWTc6WDoBoE5SHFmLXdLcUmMdtx_Q1UY/edit?resourcekey=&gid=679995764#gid=679995764)
-
+Everyone's Ratings: [Click Here](https://hari161008.github.io/Website-For-Everlasting-Android-Tweak/Ratings_Reviews/Ratings_and_Reviews_v3.html)
 <br>
 
 If you would like to write a Review, you must install the app, then go to App's settings > Rate and Review
