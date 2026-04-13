@@ -2,6 +2,12 @@
 
 <br>
 <p align="center">
+  <img src="assets/images/Big Banner Everlasting Android Tweak.png" width="200"/>
+</p>
+<br>
+
+
+<p align="center">
   <img src="assets/images/banner.png" width="200"/>
 </p>
 <br>
