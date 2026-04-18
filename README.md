@@ -170,6 +170,14 @@ GitHub: [Download](https://github.com/hari161008/Everlasting-Android-Tweak/relea
 <br>
 
 # For those who are wondering how Rate and Review work
-First I created a Normal google form in my account, then I integrated into my app, then I linked the google form with spreadsheets, then there was an option to create csv as a link form, which gives you the output in a raw data, Then I created an UI for rating and review in html and it shows everything (in Aurora store like) UI as the output !
+
+1. Create a Google form (with sign in required - to prevent multiple reviews and easily editable)
+2. Link the Google form with sheets (Name it as Original form)
+3. Create another Google form and name it as Website and link all the columns except the gmail column with the Original form (This is because the original form contains G-mail, which is not supposed to be exposed)
+4. Linking is easy, just make the original form to be visible to everyone temperorarly, share the link to AI and ask AI to give the code to link it in the another sheet (This will make the Website form to be automatically updated based on the changes in the original form)
+5. It will give you the code, and paste it there
+6. Then in the website form, click file > share > publish it on web > publish it as CSV > Publish.
+7. Now the Link form the website works a backend raw data
+8. If you want to have replies to your website, create a new column in the Website form as replies and type your replies to the respective people who you wanted to.
 
 The source code of Demo App and (Rate and Review) are open, Check it out: [Click Here](https://github.com/hari161008/Website-For-Everlasting-Android-Tweak)
