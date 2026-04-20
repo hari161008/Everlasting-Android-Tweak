@@ -11,6 +11,9 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
     <b>Think Different :)</b>
   </center>
 </body>
+<br>
+
+Discontinued on 20 April 2026, thank you so much to those people who supported me while making this app
 
 <br>
 
