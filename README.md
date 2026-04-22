@@ -14,6 +14,8 @@ Everlasting Android Tweak is the true heart of Android, powerful, feature rich t
 
 # Discontinued on 20 April 2026, thank you so much to those people who supported me while making this app
 
+The reason: [Click Here](https://t.me/EverlastingAndroidTweak/34/426)
+
 Good news!: Updates are possible if you contribute it to me in my [telegram support group](https://t.me/EverlastingAndroidTweak), and here is the source code in a proper format: [Click Here](https://github.com/hari161008/Everlasting-Android-Tweak-Source-Code-Repo)
 
 If you don't have any coding knowledege, Check my guide: [Click Here](https://t.me/CoolAppStore/279)
