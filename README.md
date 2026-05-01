@@ -1,6 +1,17 @@
 # Everlasting Android Tweak
 <br>
 
+# This app is being featured on Tech Karan, How To Men YouTube channel <br>
+<br>
+
+Thank you so much to:
+
+How To Men (Look at the last for the best): [Click Here](https://youtu.be/B59glf2bweo) <br><br>
+
+Tech Karan: [Click Here](https://youtu.be/t7q31ozyW3c)
+
+<br>
+
 <img src="assets/images/Big Banner Everlasting Android Tweak.png" width="600%" />
 Everlasting Android Tweak is the true heart of Android, powerful, feature rich toolkit designed to unlock the full potential of your Android device. It provides you many advanced gestures, customization, system controls, and smart utilities to enhance and personalize your device experience.
 
